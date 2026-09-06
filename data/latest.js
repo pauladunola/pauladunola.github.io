@@ -19,6 +19,15 @@ window.PAUL_SITE_DATA.latest = [
     "external": false
   },
   {
+    "date": "2026-08",
+    "displayDate": "August 2026",
+    "type": "Research",
+    "title": "Cascaded Image Segmentation and Object Detection for Yield Phenotyping in Blueberry Breeding",
+    "summary": "This study demonstrates an automated, image-based phenotyping pipeline that identifies individual blueberry plants to accurately predict fruit yield, offering a scalable and repeatable alternative to manual breeding evaluations.",
+    "url": "index.html#about",
+    "external": false
+  },
+  {
     "date": "2026-02",
     "displayDate": "February 2026",
     "type": "Presentation",
@@ -28,4 +37,4 @@ window.PAUL_SITE_DATA.latest = [
     "external": false
   }
 ]
-;
+  ;
