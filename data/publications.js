@@ -5,7 +5,7 @@ window.PAUL_SITE_DATA.publications = [
     "title": "Computer vision associated to multivariate genomic selection methods increases yield prediction accuracy in blueberry",
     "authors": "Suela, M. M., Ferrao, L. F., Adunola, P., et al.",
     "journal": "The Plant Phenome Journal",
-    "status": "Under review",
+    "status": "Accepted",
     "url": "",
     "featured": true
   },
@@ -14,12 +14,21 @@ window.PAUL_SITE_DATA.publications = [
     "title": "Genetic control underlying dynamics of blueberry bioactive compounds during postharvest can drive breeding for functional fruits",
     "authors": "Tavares, E., Casorzo, G., Adunola, P., et al.",
     "journal": "The Plant Genome",
-    "status": "Accepted",
+    "status": "Under review",
     "url": "",
     "featured": true
   },
   {
-    "year": 2025,
+    "year": 2026,
+    "title": "Genetic insights into bacterial wilt resistance using genomic prediction and association mapping in blueberry",
+    "authors": "Ghimire, L., Flor, N., Adunola, P., et al.",
+    "journal": "The Plant Genome",
+    "status": "Published",
+    "url": "https://doi.org/10.1002/tpg2.70283",
+    "featured": true
+  },
+  {
+    "year": 2026,
     "title": "Integrative GWAS and transcriptomic analyses reveal markers and candidate genes associated with resistance to Botrytis cinerea fruit rot in blueberry",
     "authors": "Ghimire, L., Yichun, W., Adunola, P., et al.",
     "journal": "Horticulture Research",
@@ -34,6 +43,33 @@ window.PAUL_SITE_DATA.publications = [
     "journal": "G3 Genes|Genomes|Genetics",
     "status": "Published",
     "url": "https://doi.org/10.1093/g3journal/jkaf187",
+    "featured": true
+  },
+  {
+    "year": 2025,
+    "title": "Establishment of in vitro shoot regeneration and genetic transformation system for Southern Highbush Blueberry (SHB)",
+    "authors": "Karn, A., Enciso-Rodriguez, F., Kumam, Y., Adunola, P., et al.",
+    "journal": "Plant Cell, Tissue and Organ Culture",
+    "status": "Published",
+    "url": "https://doi.org/10.1007/s11240-025-03212-1",
+    "featured": false
+  },
+  {
+    "year": 2025,
+    "title": "Diversity in Stomata Morphology among Cultivated Blueberry Genotypes and Its Influence on Irradiance Response Dynamics",
+    "authors": "da Silva Benevenute, S., Adunola, P., et al.",
+    "journal": "Journal of the American Society for Horticultural Science",
+    "status": "Published",
+    "url": "https://doi.org/10.21273/JASHS05458-24",
+    "featured": false
+  },
+  {
+    "year": 2025,
+    "title": "Quantitative pollination requirements: A buzzworthy breeding objective for improving blueberry yield",
+    "authors": "Komatz, A., Cromie, J., Adunola, P., et al.",
+    "journal": "Scientia Horticulturae",
+    "status": "Published",
+    "url": "https://doi.org/10.1016/j.scienta.2025.114205",
     "featured": false
   },
   {
@@ -43,6 +79,15 @@ window.PAUL_SITE_DATA.publications = [
     "journal": "The Plant Phenome Journal",
     "status": "Published",
     "url": "https://doi.org/10.1002/ppj2.70010",
+    "featured": true
+  },
+  {
+    "year": 2024,
+    "title": "Genotypic variation in blueberry flower morphology and nectar reward content affects pollinator attraction in a diverse breeding population",
+    "authors": "Cromie, J., Ternest, J., Komatz, A., Adunola, P., et al.",
+    "journal": "BMC Plant Biology",
+    "status": "Published",
+    "url": "https://doi.org/10.1186/s12870-024-05495-6",
     "featured": true
   },
   {
@@ -98,6 +143,24 @@ window.PAUL_SITE_DATA.publications = [
     "status": "Published",
     "url": "https://doi.org/10.1093/g3journal/jkad062",
     "featured": false
+  },
+  {
+    "year": 2022,
+    "title": "OMICS in fodder crops: applications, challenges, and prospects",
+    "authors": "Kumar, P., Singh, J., Kaur, G., Adunola, P., et al.",
+    "journal": "Current Issues in Molecular Biology",
+    "status": "Published",
+    "url": "https://doi.org/10.3390/cimb44110369",
+    "featured": false
+  },
+  {
+    "year": 2021,
+    "title": "Impact of climate change on armyworm infestation on maize in Nigeria: A review",
+    "authors": "Adunola, P., et al.",
+    "journal": "Journal of Plant Breeding and Crop Science",
+    "status": "Published",
+    "url": " https://doi.org/10.5897/JPBCS2020.0895",
+    "featured": false
   }
 ]
-;
+  ;
